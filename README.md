@@ -1,5 +1,5 @@
 # NLP-Recommendation-system
-A robust system which uses content based filtering to accurately recommend users various movies based on the movie which the user has viewed. 
+A robust system which uses content based filtering to accurately recommend users various movies based on the various features like movie genre, rating, cast etc
 
 ### Guide:
 
